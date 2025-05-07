@@ -1,7 +1,7 @@
 api = "0.8"
 
 [buildpack]
-id = "example/minimal-nodejs"
+id = "tsd-nodejs-cnb"
 version = "0.0.1"
 name = "Minimal NodeJS CNB"
 

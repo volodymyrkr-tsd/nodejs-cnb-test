@@ -1,0 +1,9 @@
+api = "0.8"
+
+[buildpack]
+id = "example/minimal-nodejs"
+version = "0.0.1"
+name = "Minimal NodeJS CNB"
+
+[[stacks]]
+id = "heroku-24"
